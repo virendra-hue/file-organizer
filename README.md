@@ -1,2 +1,6 @@
-# file-organizer
-Python tool to automatically oraganize files into folders
+# File Organizer
+
+Automatically organizes files into folders.
+
+## Run
+python organizer.py
